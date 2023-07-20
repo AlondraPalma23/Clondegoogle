@@ -2,9 +2,9 @@
 
 ## ÍNDICE
 
-*[Intro](#)
-*[Qué construí](#)
-*[Objetivo del proyecto](#)
+* [Intro](#)
+* [Qué construí](#)
+* [Objetivo del proyecto](#)
 
 ****
 ## 1. Intro
