@@ -1,2 +1,2 @@
 # Clondegoogle
-Programa de un Clon de página principal de Google
+Clon de la página principal de Google
